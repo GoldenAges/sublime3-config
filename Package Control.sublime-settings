@@ -1,0 +1,35 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"3024 Color Scheme",
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Can I Use",
+		"ConvertToUTF8",
+		"CSScomb",
+		"CTags",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"jQuery",
+		"JsFormat",
+		"Laravel 4 Artisan",
+		"Markdown HTML Preview",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Paste PDF Text Block",
+		"Phpcs",
+		"PHPIntel",
+		"PHPUnit",
+		"SublimeLinter",
+		"SublimeREPL",
+		"Trimmer",
+		"Xdebug Client"
+	]
+}
