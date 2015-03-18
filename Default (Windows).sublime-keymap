@@ -3,5 +3,4 @@
     { "keys": ["f3"], "command": "reindent" },
     { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} },
     { "keys": ["ctrl+q"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
-    { "keys": ["ctrl+alt+s"], "command": "trimmer" }
 ]

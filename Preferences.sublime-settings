@@ -1,18 +1,31 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
 	"default_line_ending": "unix",
-	"detect_slow_plugins": false,
+	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 12,
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Markdown",
 		"Vintage",
 		"Git"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"numix_folder_icons": true,
+	"overlay_scroll_bars": "enabled",
+	/*"rulers":
+	[
+		80
+	],*/
+	"scroll_past_end": true,
 	"spell_check": false,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"tab_size": 4,
+	"tabs_small": true,
+    "copy_with_empty_selection": false,
+	"theme": "predawn-DEV.sublime-theme",
 }
