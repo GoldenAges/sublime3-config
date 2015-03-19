@@ -1,6 +1,7 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/predawn (SL).tmTheme",
+	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
 	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -10,22 +11,17 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Vintage",
-		"Git"
+		"Git",
+		"Markdown"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"numix_folder_icons": true,
 	"overlay_scroll_bars": "enabled",
-	/*"rulers":
-	[
-		80
-	],*/
 	"scroll_past_end": true,
 	"spell_check": false,
 	"tab_size": 4,
 	"tabs_small": true,
-    "copy_with_empty_selection": false,
-	"theme": "predawn-DEV.sublime-theme",
+	"theme": "predawn-DEV.sublime-theme"
 }
