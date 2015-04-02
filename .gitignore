@@ -2,3 +2,4 @@
 *.log
 *.cache
 *.info
+encoding_cache.json
