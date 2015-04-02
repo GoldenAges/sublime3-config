@@ -1,3 +1,4 @@
-Package Control.cache/*
+/Package Control.cache
 *.log
 *.cache
+*.info
