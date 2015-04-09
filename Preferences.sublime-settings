@@ -1,4 +1,15 @@
 {
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "/",
+			"selector": "string.quoted.double.html,string.quoted.single.html, source.css"
+		}
+	],
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
 	"copy_with_empty_selection": false,
@@ -11,8 +22,8 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Git",
+		"Vintage",
 		"Markdown"
 	],
 	"line_padding_bottom": 1,
@@ -24,16 +35,5 @@
 	"tab_size": 4,
 	"tabs_small": true,
 	"theme": "predawn-DEV.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
-	"auto_complete_triggers":
-		[
-		  {
-		     "characters": "<",
-		     "selector": "text.html"
-		  },
-		  {
-		     "characters": "/",
-		     "selector": "string.quoted.double.html,string.quoted.single.html, source.css"
-		  }
-		]
+	"trim_trailing_white_space_on_save": true
 }
