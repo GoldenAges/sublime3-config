@@ -1,4 +1,5 @@
 {
+	"auto_complete_selector": "source, text",
 	"auto_complete_triggers":
 	[
 		{
@@ -22,9 +23,12 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"ColorPicker",
+		"Vintage",
+		"AppleScript",
 		"Git",
-		"Markdown",
-		"Vintage"
+		"Xdebug Client",
+		"Markdown"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -35,7 +39,6 @@
 	"tab_size": 4,
 	"tabs_small": true,
 	"theme": "predawn-DEV.sublime-theme",
-	"trim_trailing_white_space_on_save": true,
-	// for wordpress
-	"auto_complete_selector": "source, text",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
