@@ -18,17 +18,17 @@
 	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Git",
-		"AppleScript",
 		"Vintage",
+		"ColorPicker",
 		"Markdown",
-		"Xdebug Client",
-		"ColorPicker"
+		"AppleScript",
+		"Git",
+		"Xdebug Client"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
