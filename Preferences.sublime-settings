@@ -23,10 +23,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"ColorPicker",
 		"Markdown",
 		"AppleScript",
+		"Vintage",
 		"Git",
 		"Xdebug Client"
 	],

@@ -10,11 +10,11 @@
 		"All Autocomplete",
 		"AutoFileName",
 		"AutoHotkey",
+		"Better CoffeeScript",
 		"Bootstrap 3 Snippets",
 		"BracketHighlighter",
 		"Can I Use",
 		"Clipboard Manager",
-		"ColorPicker",
 		"ConvertToUTF8",
 		"CSS3",
 		"CSScomb",
@@ -22,7 +22,6 @@
 		"Emmet",
 		"FileDiffs",
 		"Gist",
-		"GotoDocumentation",
 		"Grunt",
 		"Javascript Beautify",
 		"jQuery",
@@ -32,7 +31,6 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Minifier",
-		"Numix Theme",
 		"Package Control",
 		"Paste PDF Text Block",
 		"PHPIntel",
@@ -47,7 +45,6 @@
 		"SublimeREPL",
 		"Theme - Numix",
 		"WordPress",
-		"WordPress Developer Resources",
 		"Xdebug Client"
 	]
 }
