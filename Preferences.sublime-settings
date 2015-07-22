@@ -23,10 +23,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Markdown",
-		"AppleScript",
 		"Vintage",
+		"AppleScript",
 		"Git",
+		"Markdown",
 		"Xdebug Client"
 	],
 	"line_padding_bottom": 1,
