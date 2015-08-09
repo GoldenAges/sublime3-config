@@ -18,11 +18,16 @@
 	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "YaHei Consolas Hybrid",
+<<<<<<< HEAD
 	"font_size": 13,
+=======
+	"font_size": 15,
+>>>>>>> 3d1b6a800d69d11652f546e6e7e26cac740f7f93
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+<<<<<<< HEAD
 		"Git",
 		"AppleScript",
 		"ColorPicker",
@@ -30,6 +35,13 @@
 		"Xdebug Client",
 		"AutoHotkey",
 		"Markdown"
+=======
+		"Vintage",
+		"Git",
+		"AppleScript",
+		"Markdown",
+		"Xdebug Client"
+>>>>>>> 3d1b6a800d69d11652f546e6e7e26cac740f7f93
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
