@@ -24,15 +24,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Git",
 		"AppleScript",
-		"ColorPicker",
-		"Vintage",
-		"Xdebug Client",
-		"AutoHotkey",
-		"Markdown",
-		"Vintage",
 		"Git",
+		"Vintage",
+		"Xdebug Client"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
