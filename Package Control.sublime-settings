@@ -20,6 +20,11 @@
 		"Emmet",
 		"FileDiffs",
 		"Gist",
+<<<<<<< HEAD
+=======
+		"Grunt",
+		"HTML-CSS-JS Prettify",
+>>>>>>> 4abe1612f5d0ae802a23aa347934131a845ee485
 		"Javascript Beautify",
 		"jQuery",
 		"JsFormat",
