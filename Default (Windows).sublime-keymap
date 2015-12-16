@@ -1,7 +1,7 @@
 [
     { "keys": ["f1"], "command": "goto_documentation" },
     { "keys": ["f3"], "command": "reindent" },
-    { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
     { "keys": ["ctrl+q"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
     { "keys": ["ctrl+enter"], "command": "open_url" }
 ]

@@ -1,4 +1,11 @@
 {
+	"added_words":
+	[
+		"localhost",
+		"hostname",
+		"username",
+		"msg"
+	],
 	"auto_complete_selector": "source, text",
 	"auto_complete_triggers":
 	[
@@ -12,29 +19,33 @@
 		}
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai Soda (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"AppleScript",
 		"Git",
-		"Vintage",
-		"Xdebug Client"
+		"Markdown",
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"pr0f3r0"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"numix_folder_icons": true,
 	"overlay_scroll_bars": "enabled",
 	"scroll_past_end": true,
-	"spell_check": false,
+	"spell_check": true,
 	"tab_size": 4,
 	"tabs_small": true,
 	"theme": "predawn-DEV.sublime-theme",
