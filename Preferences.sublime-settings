@@ -4,7 +4,8 @@
 		"localhost",
 		"hostname",
 		"username",
-		"msg"
+		"msg",
+		"然后造成了这样一种情况，就是人的观点永远是片面的，你甚至都无法评论、议论一件事情，因为你不知道"
 	],
 	"auto_complete_selector": "source, text",
 	"auto_complete_triggers":
@@ -26,7 +27,7 @@
 	"detect_slow_plugins": true,
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "YaHei Consolas Hybrid",
-	"font_size": 13,
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
